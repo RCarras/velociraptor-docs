@@ -1,8 +1,8 @@
 name: Linux.Detection.BruteForce
 description: | 
-
    Linux detection brute force module.
-   This code is based on https://github.com/RCarras/linforce/blob/main/linforce.sh
+   
+   This code is based on: https://github.com/RCarras/linforce/blob/main/linforce.sh
       
    This module uses btmp/wtmp files to search for possible brute force attacks comparing:
    
